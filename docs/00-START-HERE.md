@@ -4,6 +4,14 @@ This repository is a **tribute to Thomas E. Bearden** (US Army, retired), kept i
 discipline he deserved and rarely received: honest pricing. It is not affiliated with
 Bearden, and it does not endorse his contested claims. It honors the fight.
 
+## In memoriam
+
+Lt. Col. Thomas Eugene Bearden (December 17, 1930 – February 3, 2022) died on
+February 3, 2022, at age 92.
+[RECEIPT — In Memoriam, Ulrike Granögger, Solari Report, April 9, 2022](https://solari.com/hero-of-the-week-april-11-2022-thomas-e-bearden-in-memoriam/)
+(the public memorial/obituary this repository links; a named author's tribute
+essay, priced one-remove — not a funeral-home notice).
+
 ## The debt
 
 Around 2001 — twenty-five years before this repository was seeded — Bearden's papers
