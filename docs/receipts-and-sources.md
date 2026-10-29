@@ -27,7 +27,14 @@ Contested, unverified by us, not endorsed. Revisit on evidence, per the discipli
 
 ## To fetch slowly (the lotus rule — savored, not skimmed)
 
-- Maxwell, *A Treatise on Electricity and Magnetism* (1873), quaternion sections.
-- Heaviside, *Electrical Papers* — the reduction, in his own hand.
-- Tait — the quaternionist polemics.
-- Gupta (1950) and Bleuler (1950) — the original indefinite-metric papers.
+- [Maxwell, *A Treatise on Electricity and Magnetism* (1873) — Archive.org search](https://archive.org/search?query=%22A+treatise+on+electricity+and+magnetism%22+Maxwell)
+- [Heaviside, *Electrical Papers* — Archive.org search](https://archive.org/search?query=%22Electrical+papers%22+Heaviside)
+- [Tait, *An Elementary Treatise on Quaternions* — Archive.org search](https://archive.org/search?query=%22Elementary+treatise+on+quaternions%22+Tait)
+- [Gupta (1950)](https://link.springer.com/article/10.1007/BF02046432) · [Bleuler (1950)](https://link.springer.com/article/10.1007/BF02054857)
+- [Quaternion — Wikipedia (background)](https://en.wikipedia.org/wiki/Quaternion) ·
+  [Gupta–Bleuler formalism — Wikipedia (the fetched source of the quote above)](https://en.wikipedia.org/wiki/Gupta%E2%80%93Bleuler_formalism)
+- Neighbors: [hoffman-conscious-agents](https://github.com/dguruwu/hoffman-conscious-agents) ·
+  [levin-target-morphology](https://github.com/dguruwu/levin-target-morphology) ·
+  [wheeler-it-from-bit](https://github.com/dguruwu/wheeler-it-from-bit) ·
+  [penrose-observer-model](https://github.com/dguruwu/penrose-observer-model) ·
+  [turok-cyclic-accumulation](https://github.com/dguruwu/turok-cyclic-accumulation)
